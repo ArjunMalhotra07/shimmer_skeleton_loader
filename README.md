@@ -18,7 +18,7 @@ A Flutter package that provides a skeleton loading effect for Flutter applicatio
 - Display skeleton loading effect while fetching data or loading content.
 - Customizable shimmer animation for containers.
 
-<img src="assets/skeleton_loader_widget.gif" alt="Skeleton Loading Widget" style="width:400px ;height:400px ;">
+<img src="https://github.com/ArjunMalhotra07/shimmer_skeleton_loader/blob/main/assets/skeleton_loader_widget.gif" alt="Skeleton Loading Widget" style="width:400px ;height:400px ;">
 
 ## Installation
 
