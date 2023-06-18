@@ -1,3 +1,4 @@
-## 0.0.1
+  ## 0.0.1
 
-* TODO: Describe initial release.
+- Display skeleton loading effect while fetching data or loading content.
+- Customizable shimmer animation for containers.

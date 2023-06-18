@@ -1,7 +1,7 @@
 name: shimmer_skeleton_loader
 description: A new Flutter package project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/ArjunMalhotra07/shimmer_skeleton_loader 
 
 environment:
   sdk: '>=3.0.5 <4.0.0'
