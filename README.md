@@ -11,22 +11,31 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+A Flutter package that provides a skeleton loading effect for Flutter applications.
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+- Display skeleton loading effect while fetching data or loading content.
+- Customizable shimmer animation for containers.
 
-## Getting started
+<img src="assets/skeleton_loader_widget.gif" alt="Skeleton Loading Widget" style="width:400px ;height:400px ;">
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+## Installation
+
+Add the following line to your `pubspec.yaml` file:
+
+```yaml
+dependencies:
+  shimmer_skeleton_loader: ^1.0.0
+```
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
+- Import the package into your Dart file:
+
+```dart
+import 'package:shimmer_skeleton_loader/shimmer_skeleton_loader.dart';
+```
 
 ```dart
 SkeletonLoaderWidget(
@@ -34,8 +43,4 @@ SkeletonLoaderWidget(
 )
 ```
 
-## Additional information
 
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
