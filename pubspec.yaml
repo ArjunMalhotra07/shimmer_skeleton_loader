@@ -1,5 +1,5 @@
 name: shimmer_skeleton_loader
-description: A new Flutter package project.
+description: Display skeleton loading effect while fetching data or loading content.
 version: 0.0.1
 homepage: https://github.com/ArjunMalhotra07/shimmer_skeleton_loader 
 
